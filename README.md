@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nautevol07VII-111
+- 👋 Hi, I’m Nile
 - 👀 I’m interested in ...literature! If I'm not glued to my laptop I'm probably reading a novel of some sort.
 - 🌱 I’m currently learning ...Typescript, 3JS, and constantly improving my Java chops (also working heavily with React, Convex, & Clerk at the moment)
 - 💞️ I’m looking to collaborate on ...Anything! I want meet as many people as I can and make positive impacts as often as possible!
