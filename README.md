@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nile
 - 👀 I’m interested in ...literature! If I'm not glued to my laptop I'm probably reading a novel of some sort.
-- 🌱 I’m currently learning ...React hooks, Angular, constantly improving my Java chops, and more recently, delving into some basic webGL along with Javascript.
+- 🌱 I’m currently learning ...React hooks, Angular, constantly improving my Java chops, and more recently, delving into some basic webGL along with intermediate Javascript.
 - 💞️ I’m looking to collaborate on ...Anything! I want to meet as many people as I can and make a positive impact as often as possible!
 - 📫 How to reach me ...email me @njacksonnorthrup244@gmail.com or connect with me via linkedIn: www.linkedin.com/in/nile-jackson
 - 😄 Pronouns: ...He/Him/His
