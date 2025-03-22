@@ -4,7 +4,7 @@
 ### <div align="center">I'm Nile, a freelance full-stack developer  👨🏿‍💻working remotely(usually at my local library) since 2024 🚀</div>  
   
 
-- 🔭 I’m currently working on a simple library API that tracks statuses, creates, stores and deletes some of my (and maybe your) favorite books. [My REST API](https://github.com/Nautevol07VII-111/Books-REST-API)  
+- 🔭 I’m currently working on a simple library API that tracks book availability , creates new titles, stores preexisting titles and deletes old or depreacated titles for some of my (and maybe your) favorite books. [My REST API](https://github.com/Nautevol07VII-111/Books-REST-API)  
   
 
 - 🌱 I’m currently learning C  
