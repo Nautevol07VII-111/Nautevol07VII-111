@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Nile, a freelance full-stack developer  👨🏿‍💻working remotely(usually at my local library) since 2024 🚀</div>  
