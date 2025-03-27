@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a simple library API that tracks book availability , creates new titles, stores preexisting titles and deletes old or depreacated titles for some of my (and maybe your) favorite books. [My REST API](https://github.com/Nautevol07VII-111/Books-REST-API)  
   
 
-- 🌱 I’m currently learning C  
+- 🌱 I’m currently learning C#  
   
 
 - ❓ Ask me about anything related to Spring/ Spring web technologies or tdd with Mockito  
