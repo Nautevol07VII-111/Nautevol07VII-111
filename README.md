@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning C#  
   
 
-- ❓ Ask me about anything related to Spring/ Spring web technologies or tdd with Mockito  
+- ❓ Ask me about anything related to Spring/ Spring Boot/web technologies or tdd with Mockito  
   
 
 - ⚡ Fun fact: I love animals, especially dogs  
