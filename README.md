@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a A RESTful banking API implementation with configurable security controls. [My SecureBanking API](https://github.com/Nautevol07VII-111/Secure-Banking-API-with-Vulnerability-Simulator)  
   
 
-- 🌱 I’m currently learning C#, RHEL linux, & Basic Lisp
+- 🌱 I’m currently learning C#, RHEL linux, & very-basic Common Lisp
   
 
 - ❓ Ask me about anything related to the Spring ecosystem(Spring Boot/Web Mvc technologies/tdd with Mockito)...or Daniel Suarez novels
