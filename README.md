@@ -4,13 +4,13 @@
 ### <div align="center">I'm Nile, a freelance full-stack developer  👨🏿‍💻working remotely(usually at my local library) since 2024 🚀</div>  
   
 
-- 🔭 I’m currently working on a simple library API that tracks book availability , creates new titles, stores preexisting titles and deletes old or depreacated titles for some of my (and maybe your) favorite books. [My REST API](https://github.com/Nautevol07VII-111/Books-REST-API)  
+- 🔭 I’m currently working on a A RESTful banking API implementation with configurable security controls. [My SecureBanking API](https://github.com/Nautevol07VII-111/Secure-Banking-API-with-Vulnerability-Simulator)  
   
 
-- 🌱 I’m currently learning C#  
+- 🌱 I’m currently learning C#, RHEL linux, & Basic Lisp
   
 
-- ❓ Ask me about anything related to the Spring ecosystem: Spring Boot/Web Mvc technologies or tdd with Mockito  
+- ❓ Ask me about anything related to the Spring ecosystem(Spring Boot/Web Mvc technologies/tdd with Mockito)...or Daniel Suarez novels
   
 
 - ⚡ Fun fact: I love animals, especially dogs  
