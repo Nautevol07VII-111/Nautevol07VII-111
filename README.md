@@ -4,7 +4,7 @@
 ### <div align="center">I'm Nile, a freelance full-stack developer  👨🏿‍💻working remotely(usually at my local library) since 2024 🚀</div>  
   
 
-- 🔭 I’m currently working on a A RESTful banking API implementation with configurable security controls, but my primary focus is grasping all concepts/topics covered in these two books: [Book one](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) , [Book two](https://www.goodreads.com/book/show/13838572-linux-bible) ,  [My SecureBanking API](https://github.com/Nautevol07VII-111/Secure-Banking-API-with-Vulnerability-Simulator)  
+- 🔭 I’m currently working on a A RESTful banking API implementation with configurable security controls, but my primary focus is grasping all concepts/topics covered in these two books: [Book one](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) , [Book two](https://www.goodreads.com/book/show/13838572-linux-bible) .  [My SecureBanking API](https://github.com/Nautevol07VII-111/Secure-Banking-API-with-Vulnerability-Simulator)  
   
 
 - 🌱 I’m currently learning C#, RHEL linux, & very-basic Common Lisp
